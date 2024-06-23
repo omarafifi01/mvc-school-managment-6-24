@@ -1,0 +1,2 @@
+# SEFinal
+ mvc school managment 
